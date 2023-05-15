@@ -1,5 +1,6 @@
 Download Bee Tool files at: 
 www.thebeetool.com/files/bee_tool_files.zip
+Filesize: 427 MB
 
 Archive includes:
 Shapefiles:   EPAL3.shp & NA_Shapefile.shp
