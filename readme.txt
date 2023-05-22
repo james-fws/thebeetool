@@ -1,5 +1,5 @@
 Download Bee Tool files at: 
-www.thebeetool.com/files/bee_tool_files.zip
+https://thebeetool.com/repository/Bee%20Tool%20May%202023.zip
 Filesize: 427 MB
 
 Archive includes:
